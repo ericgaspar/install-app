@@ -22,3 +22,7 @@ Example for the Roundcube app (official app)
 Example for the Duniter app (community)
 
 [![Install Duniter with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=duniter)
+
+install-with-yunohost.png
+
+install-with-yunohost.svg

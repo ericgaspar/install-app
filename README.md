@@ -26,3 +26,9 @@ Example for the Duniter app (community)
 ![](install-with-yunohost.png)
 
 ![](install-with-yunohost.svg)
+
+uncompressed
+
+![](install-with-yunohost1.png)
+
+![](install-with-yunohost1.svg)
